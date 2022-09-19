@@ -19,7 +19,6 @@ const theme = createTheme({
   }
 })
 
-
 export default function LoginPage() {
   const handleSubmit = (event) => {
     event.preventDefault();
