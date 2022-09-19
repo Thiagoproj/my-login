@@ -1,0 +1,15 @@
+#footer{
+    width: 100%;
+    position: fixed;
+    background-color: rgb(36, 35, 35);
+    height: 16em;
+   color: rgb(247, 247, 247);
+   margin-top: 6%;
+
+}
+
+#texto{
+    margin-top: 5em;
+    font-size: 0.875rem;
+    text-align: center;
+}
